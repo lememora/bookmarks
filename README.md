@@ -1,4 +1,4 @@
-# bookmarks
+# Bookmarks
 
 ## 3D Modeling & Animation
 
